@@ -1,0 +1,6 @@
+es importante porque en git se puede llevar un
+historial de cambios del proyecto, ver quien
+modifico que y cuando, y recuperar versiones
+anteriores si hay errores. Ademas, facilita el
+trabajo en equipo, evitando conflictos y mejorando
+la organizacion del desarrollo

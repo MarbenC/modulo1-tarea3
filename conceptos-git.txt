@@ -1,0 +1,6 @@
+repositorio: espacio donde se almacena un proyecto
+y su historial de cambios en git.
+
+commit: registro o "guardado" de cambios en el proyecto.
+
+push: accion de subir los cambios locales al repositorio remoto.
